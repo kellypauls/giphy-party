@@ -1,0 +1,35 @@
+body {
+    background-color: grey;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: white
+}
+
+#giphy-search {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+input {
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+#submit {
+    background-color: black;
+    color: white;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+#remove{
+    background-color: orangered;
+    color: white;
+    padding: 1em;
+    border-radius: 10px;
+}
